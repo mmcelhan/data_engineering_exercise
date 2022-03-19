@@ -1,4 +1,5 @@
 import pandas as pd
+import df_fuzzy_merge
 
 # allow pandas to print all columns so we can see outputs
 pd.set_option('display.max_rows', None)
@@ -9,7 +10,6 @@ pd.set_option('display.max_colwidth', None)
 # load source and target dataframes
 source_df = pd.read_csv('college_stats_2022.csv')
 target_df = pd.read_csv('copy_college_stats_annual.csv')
-
 
 source_df = source_df.drop(['playerId'], axis=1)  # no need for their key
 
@@ -69,7 +69,6 @@ source_df['receiving_scrim_tds'] = source_df['receiving_rec_td'] + source_df['ru
 source_df['receiving_scrim_yds'] = source_df['receiving_rec_yards'] + source_df['receiving_rush_yds']
 
 # assign data
-
 assigned = pd.read_excel('column_mapping.xlsx', sheet_name='assigned')
 
 # this for loop goes through the assigned data and assigns a value to the entire column, usually null

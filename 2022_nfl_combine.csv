@@ -1,0 +1,325 @@
+year,player,pos,college,weight,height_inches,forty,vertical,bench,broad,threecone,shuttle
+2022,EJ Perry,QB,Brown,211,73,4.6,34.5,4.6,123,6.85,4.18
+2022,Desmond Ridder,QB,Cincinnati,211,75,4.49,36,,127,7.15,4.29
+2022,Brock Purdy,QB,Iowa State,212,72,4.76,27,,,7.21,4.45
+2022,Skylar Thompson,QB,Kansas State,217,74,4.86,31,,112,7,4.28
+2022,Dustin Crum,QB,Kent State,210,73,4.75,,,,,4.36
+2022,Malik Willis,QB,Liberty,219,72,,,,,,
+2022,D'Eriq King,QB,Miami,196,69,,,,,,
+2022,Matt Corral,QB,Mississippi,212,73,,,,,,
+2022,Carson Strong,QB,Nevada,226,75,,,,,,
+2022,Sam Howell,QB,North Carolina,218,72,,,,,,
+2022,Jack Coan,QB,Notre Dame,218,75,4.9,33,,115,6.95,4.39
+2022,Kenny Pickett,QB,Pittsburgh,217,75,4.67,33.5,,121,,4.29
+2022,Cole Kelley,QB,SE Louisiana,249,79,,,,,,
+2022,Bailey Zappe,QB,Western Kentucky,215,72,4.78,30,,109,7.19,4.4
+2022,Kaleb Eleby,QB,Western Michigan,208,73,,25.5,,111,7.57,
+2022,Brian Robinson,RB,Alabama,225,73,4.53,30,,119,,
+2022,Rachaad White,RB,Arizona State,214,72,4.48,38,,125,,
+2022,Trestan Ebner,RB,Baylor,206,71,4.43,30,,,,
+2022,Abram Smith,RB,Baylor,213,71,,,,,,
+2022,Tyler Allgeier,RB,BYU,224,71,4.6,33,,120,,
+2022,Jerome Ford,RB,Cincinnati,210,70,4.46,31,,118,,
+2022,Dameon Pierce,RB,Florida,218,69,4.59,34.5,21,119,,
+2022,D'vonte Price,RB,Florida International,210,73,4.38,34,,119,,
+2022,Jashaun Corbin,RB,Florida State,202,71,,,,,,
+2022,Ronnie Rivers,RB,Fresno State,195,67,4.6,36.5,,119,,
+2022,James Cook,RB,Georgia,199,71,4.42,33,,124,,
+2022,Zamir White,RB,Georgia,214,72,4.4,33.5,,128,,
+2022,Tyler Goodson,RB,Iowa,197,69,4.42,36.5,,123,,
+2022,Breece Hall,RB,Iowa State,217,71,4.39,40,,126,,
+2022,Ty Davis-Price,RB,LSU,211,72,4.48,30,,117,,
+2022,Hassan Haskins,RB,Michigan,228,74,,,27,,,
+2022,Kenneth Walker III,RB,Michigan State,211,69,4.38,34,,122,,
+2022,Snoop Conner,RB,Mississippi,222,70,4.59,29.5,25,118,,
+2022,Jerrion Ealy,RB,Mississippi,189,68,4.52,34.5,,128,,
+2022,Tyler Badie,RB,Missouri,197,68,4.45,33.5,,121,,
+2022,Ty Chandler,RB,North Carolina,204,71,4.38,31,,121,,
+2022,Zonovan Knight,RB,North Carolina State,209,71,4.58,31,,114,,
+2022,Kyren Williams,RB,Notre Dame,194,69,4.65,32,,116,,
+2022,Kennedy Brooks,RB,Oklahoma,209,70,4.59,31,,120,,
+2022,Jaylen Warren,RB,Oklahoma State,204,68,4.55,31.5,,119,,
+2022,CJ Verdell,RB,Oregon,194,68,,29.5,,118,,
+2022,Isiah Pacheco,RB,Rutgers,216,70,4.37,33,,118,,
+2022,Greg Bell,RB,San Diego State,201,70,,31,17,120,,
+2022,Kevin Harris,RB,South Carolina,221,70,,38.5,21,126,,
+2022,ZaQuandre White,RB,South Carolina,206,72,,,,,,
+2022,Pierre Strong Jr.,RB,South Dakota State,207,71,4.37,36,,124,,
+2022,Isaiah Spiller,RB,Texas A&M,217,72,,30,,114,,
+2022,Keaontay Ingram,RB,USC,221,72,4.53,34.5,,122,,
+2022,Sincere McCormick,RB,UTSA,205,68,4.6,33.5,,116,,
+2022,Max Borghi,RB,Washington State,210,69,,,20,,,
+2022,Leddie Brown,RB,West Virginia,213,72,4.64,30,,118,,
+2022,Connor Heyward,FB,Michigan State,233,71,4.72,32.5,,,,
+2022,Jeremiah Hall,FB,Oklahoma,239,73,4.96,29,19,111,7.43,4.62
+2022,Slade Bolden,WR,Alabama,193,70,4.66,32,,116,,
+2022,John Metchie,WR,Alabama,187,71,,,,,,
+2022,Jameson Williams,WR,Alabama,179,73,,,,,,
+2022,Treylon Burks,WR,Arkansas,225,74,4.55,33,,122,7.28,
+2022,Tyquan Thornton,WR,Baylor,181,74,4.28,36.5,,130,,
+2022,Khalil Shakir,WR,Boise State,196,72,4.43,34.5,,124,7.28,4.21
+2022,Alec Pierce,WR,Cincinnati,211,75,4.41,40.5,,129,7.13,4.28
+2022,Justyn Ross,WR,Clemson,205,75,,,11,,,
+2022,George Pickens,WR,Georgia,195,75,4.47,33,,125,,
+2022,Ty Fryfogle,WR,Indiana,204,73,4.53,39,,127,,
+2022,Wan'Dale Robinson,WR,Kentucky,178,68,4.44,34.5,,118,,
+2022,Calvin Austin III,WR,Memphis,170,68,4.32,39,,135,,4.07
+2022,Charleston Rambo,WR,Miami,177,72,4.57,33.5,,118,,
+2022,Jalen Nailor,WR,Michigan State,186,71,4.5,38,,128,7.03,4.28
+2022,Dontario Drummond,WR,Mississippi,215,73,4.65,34,,122,,
+2022,Braylon Sanders,WR,Mississippi,194,72,4.48,34.5,,121,,
+2022,Makai Polk,WR,Mississippi State,195,75,4.59,31,,119,,4.36
+2022,Romeo Doubs,WR,Nevada,201,74,,,,,,
+2022,Dai'Jean Dixon,WR,Nicholls State,205,74,4.62,34,,125,7.28,4.42
+2022,Christian Watson,WR,North Dakota State,208,76,4.36,38.5,,136,,
+2022,Isaiah Weston,WR,Northern Iowa,214,75,4.42,40,20,135,,
+2022,Kevin Austin Jr.,WR,Notre Dame,200,74,4.43,39,,132,6.71,4.15
+2022,Chris Olave,WR,Ohio State,187,72,4.39,32,,124,,
+2022,Garrett Wilson,WR,Ohio State,183,72,4.38,36,,123,,4.36
+2022,Mike Woods,WR,Oklahoma,204,73,4.55,34.5,,125,,
+2022,Johnny Johnson III,WR,Oregon,197,72,4.6,32,,121,7.21,4.54
+2022,Devon Williams,WR,Oregon,210,77,4.65,33,,133,,
+2022,Jahan Dotson,WR,Penn State,178,70,4.43,36,,121,7.28,
+2022,David Bell,WR,Purdue,212,73,4.65,33,,118,7.14,4.57
+2022,Bo Melton,WR,Rutgers,189,71,4.34,38,,121,6.98,
+2022,Danny Gray,WR,SMU,186,72,4.33,34,,126,,
+2022,Reggie Roberson Jr.,WR,SMU,192,71,,29,,114,,
+2022,Jalen Tolbert,WR,South Alabama,194,73,4.49,36,,123,7.08,
+2022,Velus Jones Jr.,WR,Tennessee,204,72,4.31,33,,121,,
+2022,Erik Ezukanma,WR,Texas Tech,209,74,,36.5,,126,,4.38
+2022,Josh Johnson,WR,Tulsa,183,70,,,14,,,
+2022,Kyle Philips,WR,UCLA,189,71,4.58,33.5,,124,,
+2022,Drake London,WR,USC,219,76,,,,,,
+2022,Tre Turner,WR,Virginia Tech,184,73,4.51,27,,113,7.45,4.53
+2022,Skyy Moore,WR,Western Michigan,195,69,4.41,34.5,,125,7.13,4.32
+2022,Curtis Hodges,TE,Arizona State,257,80,4.85,34.5,,117,7.14,4.28
+2022,Isaiah Likely,TE,Coastal Carolina,245,76,,36,,,,4.57
+2022,Trey McBride,TE,Colorado State,246,75,,33,18,117,,
+2022,Peyton Hendershot,TE,Indiana,250,76,4.8,32.5,,117,,4.25
+2022,Chase Allen,TE,Iowa State,251,78,,33.5,,117,7.03,4.43
+2022,Charlie Kolar,TE,Iowa State,252,78,,,,,,
+2022,Chigoziem Okonkwo,TE,Maryland,238,74,4.52,35.5,,,,
+2022,Austin Allen,TE,Nebraska,253,79,4.83,34,,121,7,4.26
+2022,Cole Turner,TE,Nevada,249,78,4.76,27,17,120,7.06,4.41
+2022,Jeremy Ruckert,TE,Ohio State,252,77,,,19,,,
+2022,Teagan Quitoriano,TE,Oregon State,256,78,,,22,,,
+2022,Daniel Bellinger,TE,San Diego State,253,77,4.63,34.5,22,125,7.05,4.47
+2022,Grant Calcaterra,TE,SMU,241,76,4.62,,20,,,
+2022,Jalen Wydermyer,TE,Texas A&M,255,76,,,,,,
+2022,Greg Dulcich,TE,UCLA,243,76,4.7,34,16,122,7.05,4.37
+2022,Jelani Woods,TE,Virginia,253,79,4.61,,24,,,
+2022,James Mitchell,TE,Virginia Tech,249,76,,,,,,
+2022,Cade Otton,TE,Washington,247,77,,,,,,
+2022,Jake Ferguson,TE,Wisconsin,250,77,4.81,31.5,15,118,7.03,4.48
+2022,Evan Neal,OT,Alabama,337,79,,,,,,
+2022,Kellen Diesch,OT,Arizona State,301,79,4.89,32.5,,110,7.77,4.43
+2022,Myron Cunningham,OT,Arkansas,320,77,5.38,20,,98,8.5,5.16
+2022,Luke Goedeke,OT,Central Michigan,312,77,,,26,,,
+2022,Bernhard Raimann,OT,Central Michigan,303,78,5.05,30.5,30,117,7.46,4.49
+2022,Andrew Rupcich,OT,Culver-Stockton,318,78,5.31,27.5,,108,,
+2022,Vederian Lowe,OT,Illinois,314,76,5.22,25.5,,99,7.83,4.71
+2022,Darian Kinnard,OT,Kentucky,322,77,5.31,25,,99,8.11,4.96
+2022,Dare Rosenthal,OT,Kentucky,290,79,4.88,,,,,
+2022,Max Mitchell,OT,Louisiana,307,78,5.32,25,,106,8.09,4.65
+2022,Austin Deculus,OT,LSU,321,77,5.08,28.5,,109,,
+2022,Andrew Stueber,OT,Michigan,325,78,,24.5,,101,7.94,4.9
+2022,Daniel Faalele,OT,Minnesota,384,80,,,24,,,
+2022,Charles Cross,OT,Mississippi State,307,77,4.95,26,,112,7.88,4.61
+2022,Ikem Ekwonu,OT,North Carolina State,310,76,4.93,29,,108,7.82,4.73
+2022,Matt Waletzko,OT,North Dakota,312,79,5.03,30,,113,,
+2022,Cordell Volson,OT,North Dakota State,315,78,5.27,25,25,104,8.31,4.93
+2022,Trevor Penning,OT,Northern Iowa,325,79,4.89,28,,111,7.25,4.62
+2022,Thayer Munford,OT,Ohio State,328,78,5.39,22,,104,,
+2022,Nicholas Petit-Frere,OT,Ohio State,316,77,5.14,24.5,,103,,
+2022,Rasheed Walker,OT,Penn State,313,77,,,,,,
+2022,Zachary Thomas,OT,San Diego State,308,77,4.96,22.5,21,107,7.4,4.65
+2022,Braxton Jones,OT,Southern Utah,310,77,4.97,25.5,,108,,4.84
+2022,Obinna Eze,OT,TCU,321,78,5.17,27.5,18,104,8.2,5.08
+2022,Chris Paul,OT,Tulsa,323,76,4.89,27,,109,7.74,4.83
+2022,Tyler Smith,OT,Tulsa,324,76,5.02,27.5,,105,7.78,4.65
+2022,Sean Rhyan,OT,UCLA,321,76,5.25,33.5,,110,7.55,4.81
+2022,Spencer Burford,OT,UTSA,304,76,5.19,27.5,,105,,4.73
+2022,Luke Tenuta,OT,Virginia Tech,319,80,5.41,26,,104,,4.77
+2022,Abraham Lucas,OT,Washington State,315,78,4.92,27,24,107,7.25,4.4
+2022,Logan Bruss,OT,Wisconsin,309,77,5.32,31,,112,7.57,4.55
+2022,Dohnovan West,IOL,Arizona State,296,75,5.27,28,,112,,
+2022,Zion Johnson,IOL,Boston College,312,74,5.18,32,32,112,7.38,4.46
+2022,Alec Lindstrom,IOL,Boston College,296,75,5.18,29,25,111,7.5,4.66
+2022,Cole Strange,IOL,Chattanooga,307,77,5.03,28,31,120,7.44,4.5
+2022,Nick Zakelj,IOL,Fordham,316,78,5.13,28.5,27,110,7.75,4.71
+2022,Jamaree Salyer,IOL,Georgia,321,75,,,31,,,
+2022,Justin Shaffer,IOL,Georgia,314,76,5.14,25.5,,107,,
+2022,Tyler Linderbaum,IOL,Iowa,296,74,,,,,,
+2022,Luke Fortner,IOL,Kentucky,307,76,5.21,24,,102,7.75,4.95
+2022,Chasen Hines,IOL,LSU,327,75,5.22,30.5,,108,,
+2022,Ed Ingram,IOL,LSU,307,75,5.02,20.5,,102,7.81,4.76
+2022,Dylan Parham,IOL,Memphis,311,74,4.93,26.5,,108,7.78,4.7
+2022,Blaise Andries,IOL,Minnesota,308,78,5.1,30.5,,106,7.84,4.68
+2022,Ben Brown,IOL,Mississippi,312,77,,,,,,
+2022,Cameron Jurgens,IOL,Nebraska,303,75,4.92,,25,,,
+2022,Joshua Ezeudu,IOL,North Carolina,308,76,5.19,28.5,,105,7.83,4.56
+2022,Marcus McKethan,IOL,North Carolina,340,78,5.31,27.5,27,110,7.81,4.99
+2022,Marquis Hayes,IOL,Oklahoma,318,77,5.3,23.5,,102,,
+2022,Tyrese Robinson,IOL,Oklahoma,317,75,5.25,22.5,,100,8.35,4.94
+2022,William Dunkle,IOL,San Diego State,328,77,5.44,26,25,95,7.97,4.91
+2022,Ja'Tyre Carter,IOL,Southern,311,75,5.13,30,,108,7.84,4.9
+2022,Cade Mays,IOL,Tennessee,311,77,5.24,26,,102,7.57,4.71
+2022,Kenyon Green,IOL,Texas A&M,323,76,5.24,26,20,102,,5.12
+2022,Dawson Deaton,IOL,Texas Tech,306,77,5.12,29,24,108,7.52,4.49
+2022,Lecitus Smith,IOL,Virginia Tech,314,75,5.18,,23,99,7.88,4.78
+2022,Zach Tom,IOL,Wake Forest,304,76,4.94,33,,118,7.32,4.47
+2022,Luke Wattenberg,IOL,Washington,299,76,5.2,29.5,,113,7.45,4.57
+2022,Phidarian Mathis,IDL,Alabama,310,76,,23.5,,109,,4.91
+2022,LaBryan Ray,IDL,Alabama,283,76,,,,,,
+2022,Jordan Jackson,IDL,Air Force,294,76,,,,,,
+2022,DJ Davidson,IDL,Arizona State,327,75,,28,23,,7.85,4.72
+2022,John Ridgeway,IDL,Arkansas,321,77,5.3,,,101,,4.73
+2022,Zachary Carter,IDL,Florida,282,76,4.99,27.5,19,110,,
+2022,Jordan Davis,IDL,Georgia,341,78,4.78,32,,123,,
+2022,Devonte Wyatt,IDL,Georgia,304,75,4.77,29,,111,,
+2022,Logan Hall,IDL,Houston,283,78,4.88,30,,,7.25,4.44
+2022,Noah Elliss,IDL,Idaho,346,76,5.66,,,,,
+2022,Eyioma Uwazurike,IDL,Iowa State,316,78,,33,,107,,
+2022,Marquan McCall,IDL,Kentucky,342,74,,,,,,
+2022,Neil Farrell Jr.,IDL,LSU,330,76,5.41,21.5,,,8.41,
+2022,Jonathan Ford,IDL,Miami,333,77,,29,,102,,
+2022,Christopher Hinton,IDL,Michigan,305,75,5.28,31.5,,106,,
+2022,Myron Tagovailoa-Amosa,IDL,Notre Dame,270,74,4.81,29,,115,,
+2022,Haskell Garrett,IDL,Ohio State,300,74,5.07,24,,,,
+2022,Perrion Winfrey,IDL,Oklahoma,290,75,4.89,,,,,
+2022,Thomas Booker,IDL,Stanford,301,75,4.94,,,110,7.33,4.41
+2022,Matthew Butler,IDL,Tennessee,297,76,5,32,17,112,7.89,4.81
+2022,DeMarvin Leal,IDL,Texas A&M,283,76,5,27.5,,106,,4.49
+2022,Jayden Peevy,IDL,Texas A&M,308,77,5.3,27,,100,,
+2022,Kalia Davis,IDL,UCF,302,73,,,,,,
+2022,Otito Ogbonnia,IDL,UCLA,324,76,,,29,,,
+2022,Travis Jones,IDL,UConn,325,76,4.92,28.5,,110,7.33,4.58
+2022,Christopher Allen,EDGE,Alabama,241,75,,,,,,
+2022,Tre Williams,EDGE,Arkansas,253,76,5.08,26.5,,104,7.2,4.24
+2022,Myjai Sanders,EDGE,Cincinnati,228,77,4.67,33,,120,,4.37
+2022,Jeffrey Gunter,EDGE,Coastal Carolina,258,76,4.7,35.5,,122,7.21,4.35
+2022,Jeremiah Moon,EDGE,Florida,249,77,4.76,40.5,,133,7.09,4.55
+2022,Jermaine Johnson II,EDGE,Florida State,254,76,4.58,32,,125,,
+2022,Travon Walker,EDGE,Georgia,272,77,4.51,35.5,,123,6.89,4.32
+2022,Josh Paschal,EDGE,Kentucky,268,74,4.77,37.5,,123,,
+2022,Dominique Robinson,EDGE,Miami (OH),253,77,4.72,41,25,121,,
+2022,Aidan Hutchinson,EDGE,Michigan,260,78,4.74,36,,117,6.73,4.15
+2022,David Ojabo,EDGE,Michigan,250,76,4.55,35,,122,,4.45
+2022,Boye Mafe,EDGE,Minnesota,261,76,4.53,38,,125,,
+2022,Esezi Otomewo,EDGE,Minnesota,282,77,,,,,,
+2022,Sam Williams,EDGE,Mississippi,261,75,4.46,32.5,,123,,
+2022,Tyreke Smith,EDGE,Ohio State,254,75,4.86,34,,117,,
+2022,Nik Bonitto,EDGE,Oklahoma,248,75,4.54,35.5,,120,7.07,4.23
+2022,Isaiah Thomas,EDGE,Oklahoma,266,77,4.7,31.5,,117,,
+2022,Kayvon Thibodeaux,EDGE,Oregon,254,76,4.58,,27,,,
+2022,Arnold Ebiketie,EDGE,Penn State,250,74,,38,21,128,,
+2022,Jesse Luketa,EDGE,Penn State,253,75,4.89,37.5,,114,,
+2022,George Karlaftis,EDGE,Purdue,266,76,,38,21,121,,4.36
+2022,Cameron Thomas,EDGE,San Diego State,267,76,,,24,,,
+2022,Kingsley Enagbare,EDGE,South Carolina,258,76,4.87,36.5,,117,,
+2022,Micheal Clemons,EDGE,Texas A&M,263,77,,,24,116,,
+2022,Tyree Johnson,EDGE,Texas A&M,248,74,,,21,,,
+2022,Alex Wright,EDGE,UAB,271,77,,,15,,,
+2022,Drake Jackson,EDGE,USC,254,74,,36.5,,127,,
+2022,Amare Barno,EDGE,Virginia Tech,246,76,4.36,37,,131,,4.45
+2022,DeAngelo Malone,EDGE,Western Kentucky,243,75,,41,23,,,
+2022,Christian Harris,LB,Alabama,226,72,4.44,34.5,,132,,
+2022,D'Marco Jackson,LB,Appalachian State,233,73,4.55,33,,125,,
+2022,Darien Butler,LB,Arizona State,221,70,,,,,7.47,
+2022,Zakoby McClain,LB,Auburn,228,71,4.69,33,,117,,
+2022,Terrel Bernard,LB,Baylor,224,73,,35.5,22,123,7.03,4.25
+2022,Isaiah Graham-Mobley,LB,Boston College,230,73,4.63,34.5,,124,,
+2022,Darrian Beavers,LB,Cincinnati,237,76,,36.5,,125,6.91,
+2022,Baylon Spector,LB,Clemson,233,73,4.6,36,,122,,
+2022,Nate Landman,LB,Colorado,238,74,4.86,36.5,,119,,
+2022,Nakobe Dean,LB,Georgia,229,71,,,,,,
+2022,Channing Tindall,LB,Georgia,230,74,4.47,42,,129,,
+2022,Quay Walker,LB,Georgia,241,76,4.52,32,,122,,
+2022,Jake Hansen,LB,Illinois,238,73,,,21,,,
+2022,Micah McFadden,LB,Indiana,240,73,,,21,,,
+2022,Mike Rose,LB,Iowa State,245,76,,34,,121,,
+2022,Damone Clark,LB,LSU,239,74,4.57,36.5,,127,7.12,
+2022,Josh Ross,LB,Michigan,227,72,4.79,31,,109,,
+2022,Chance Campbell,LB,Mississippi,232,74,4.57,39.5,,127,,
+2022,Troy Andersen,LB,Montana State,243,75,4.42,36,,128,,
+2022,JoJo Domann,LB,Nebraska,228,73,4.62,34.5,,119,,
+2022,Jeremiah Gemmel,LB,North Carolina,226,73,,,,,,
+2022,Brian Asamoah II,LB,Oklahoma,226,72,4.56,36.5,,124,,
+2022,Malcolm Rodriguez,LB,Oklahoma State,232,71,4.52,39.5,,120,,
+2022,Brandon Smith,LB,Penn State,250,75,4.52,37.5,,128,,
+2022,Aaron Hansford,LB,Texas A&M,239,74,,,24,,,
+2022,Devin Lloyd,LB,Utah,237,75,4.66,35,25,126,,
+2022,Nephi Sewell,LB,Utah,226,71,4.67,32,,120,7.01,4.33
+2022,Leo Chenal,LB,Wisconsin,250,74,4.53,40.5,,128,,
+2022,Jack Sanborn,LB,Wisconsin,234,73,4.73,34.5,20,114,,
+2022,Chad Muma,LB,Wyoming,239,75,4.63,40,27,129,7.06,4.28
+2022,Jalyn Armour-Davis,CB,Alabama,197,72,4.39,34.5,14,,,
+2022,Josh Jobe,CB,Alabama,182,71,,,,,,
+2022,Jack Jones,CB,Arizona State,171,71,4.51,,,,,
+2022,Chase Lucas,CB,Arizona State,180,71,4.48,39,,128,,
+2022,Montaric Brown,CB,Arkansas,196,72,4.55,,,,,
+2022,Roger McCreary,CB,Auburn,190,71,4.5,,,,,
+2022,Kalon Barnes,CB,Baylor,183,71,4.23,,,,,
+2022,Coby Bryant,CB,Cincinnati,193,73,4.54,,17,,,
+2022,Ahmad Gardner,CB,Cincinnati,190,75,4.41,,,,,
+2022,Andrew Booth Jr.,CB,Clemson,194,72,,,,,,
+2022,Mario Goodrich,CB,Clemson,176,72,4.52,,,,,
+2022,Joshua Williams,CB,Fayetteville State,195,75,4.53,36,,124,,
+2022,Kaiir Elam,CB,Florida,191,73,4.39,,,,,
+2022,Derion Kendrick,CB,Georgia,194,72,,,,,,
+2022,Marcus Jones,CB,Houston,174,68,,,,,,
+2022,Damarion Williams,CB,Houston,182,70,,34.5,17,118,,
+2022,Cordale Flott,CB,LSU,175,72,,,,,,
+2022,Derek Stingley Jr.,CB,LSU,190,72,,,,,,
+2022,Vincent Gray,CB,Michigan,192,74,4.54,,,,,
+2022,Martin Emerson,CB,Mississippi State,201,73,4.53,,,,,
+2022,Akayleb Evans,CB,Missouri,197,74,4.46,36,,129,,
+2022,Sam Webb,CB,Missouri Western,202,72,4.48,,14,,,
+2022,Cam Taylor-Britt,CB,Nebraska,196,70,4.38,,,,,
+2022,Mykael Wright,CB,Oregon,173,70,4.57,,,,,
+2022,Tariq Castro-Fields,CB,Penn State,197,72,4.38,,,,,
+2022,Damarri Mathis,CB,Pittsburgh,196,71,4.39,,,,,
+2022,Zyon McCollum,CB,Sam Houston State,199,74,4.33,39.5,,132,6.48,3.94
+2022,Decobie Durant,CB,South Carolina State,180,69,4.38,,,,,
+2022,Alontae Taylor,CB,Tennessee,199,72,4.36,34.5,,128,,
+2022,Josh Thompson,CB,Texas,194,71,4.4,,,,,
+2022,DaMarcus Fields,CB,Texas Tech,193,71,4.48,34.5,,,,
+2022,Chris Steele,CB,USC,187,72,4.48,37.5,,126,,
+2022,Isaac Taylor-Stuart,CB,USC,201,73,4.42,,,123,,
+2022,Tariq Woolen,CB,UTSA,205,76,4.26,42,,,,
+2022,Jermaine Waller,CB,Virginia Tech,180,72,4.68,,,,,
+2022,Kyler Gordon,CB,Washington,194,71,4.52,,,,,
+2022,Trent McDuffie,CB,Washington,193,71,4.44,,,,,
+2022,Jaylen Watson,CB,Washington State,197,74,4.51,,18,,,
+2022,Smoke Monday,S,Auburn,207,74,4.52,,,124,7,
+2022,Jalen Pitre,S,Baylor,198,71,,35,16,,6.74,4.18
+2022,JT Woods,S,Baylor,195,74,4.36,39.5,,128,,
+2022,Bryan Cook,S,Cincinnati,206,73,,,,,,
+2022,Markquese Bell,S,Florida A&M,212,74,4.41,36.5,,123,,4.46
+2022,Lewis Cine,S,Georgia,199,74,4.37,36.5,,133,,
+2022,Juanyeh Thomas,S,Georgia Tech,212,73,4.55,34,17,122,,
+2022,Kerby Joseph,S,Illinois,203,73,,38.5,18,123,,
+2022,Dane Belton,S,Iowa,205,72,4.43,36.5,,123,7.01,4.24
+2022,Yusuf Corker,S,Kentucky,203,72,,,23,,,
+2022,Percy Butler,S,Louisiana,194,72,4.36,31.5,,123,,
+2022,Qwynnterrio Cole,S,Louisville,206,72,,,16,,,
+2022,Nick Cross,S,Maryland,212,72,4.34,37,,130,,
+2022,Bubba Bolden,S,Miami,209,74,4.47,,,116,,
+2022,Daxton Hill,S,Michigan,191,72,4.38,33.5,,121,6.57,4.06
+2022,Kyle Hamilton,S,Notre Dame,220,76,4.59,38,,131,6.9,4.32
+2022,Delarrin Turner-Yell,S,Oklahoma,197,70,4.47,,,122,,
+2022,Kolby Harvell-Peel,S,Oklahoma State,213,71,,,21,,,
+2022,Verone McKinley III,S,Oregon,198,70,,35,16,120,,
+2022,Jaquan Brisker,S,Penn State,199,73,4.49,34.5,22,124,,
+2022,Leon O'Neal,S,Texas A&M,204,72,,35,15,125,6.89,
+2022,Tycen Anderson,S,Toledo,209,74,4.36,35.5,,123,6.64,4.28
+2022,Quentin Lake,S,UCLA,201,73,4.59,,,,,
+2022,Cade York,K,LSU,206,73,,,12,,,
+2022,Gabe Brkic,K,Oklahoma,197,74,,,,,,
+2022,Cameron Dicker,K,Texas,220,73,,,,,,
+2022,Jake Camarda,P,Georgia,193,73,4.56,,,,,
+2022,Blake Hayes,P,Illinois,226,76,,,,,,
+2022,Trenton Gill,P,North Carolina State,220,76,,,,,,
+2022,Jordan Stout,P,Penn State,209,75,4.65,,,,,
+2022,Matt Araiza,P,San Diego State,200,73,4.68,32,,121,,
+2022,Cal Adomitis,LS,Pittsburgh,235,73,4.97,29.5,18,107,7.53,4.62
