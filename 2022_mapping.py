@@ -9,13 +9,17 @@ pd.set_option('display.max_colwidth', None)
 
 # load source and target dataframes
 source_df = pd.read_csv('college_stats_2022.csv')
-target_df = pd.read_csv('copy_college_stats_annual.csv')
+target_df = pd.read_csv('college_stats_annual.csv')
+position_df = pd.read_csv('2022_nfl_combine.csv')
 
 source_df = source_df.drop(['playerId'], axis=1)  # no need for their key
 
 # merge the category and stat type into a new column and drop original columns
 source_df['new_stat'] = source_df['category'] + '_' + source_df['statType']
 source_df = source_df.drop(['category', 'statType'], axis=1)  # drop unneeded data
+
+print(position_df)
+print(position_df.columns)
 
 ''' 
     this is a bit hacky. pivot_table doesn't do well with multiple index columns so I'll combine player and college
